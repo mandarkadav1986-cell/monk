@@ -1,0 +1,5 @@
+{
+  "name": "Monk",
+  "description": "A cross-platform productivity app that turns fleeting ideas into scheduled, done work using a Capture → Organize → Review → Engage workflow, enhanced with Gemini for intelligent assistance.",
+  "requestFramePermissions": []
+}
